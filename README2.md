@@ -1,4 +1,4 @@
-¿De qué trata este proyecto?
+¿De qué trató este proyecto?
 
 Describe brevemente el caso EverPeak y qué estás analizando.
 
